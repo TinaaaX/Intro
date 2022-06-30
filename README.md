@@ -1,2 +1,2 @@
 # Intro
-Some useful files
+Some useful files to get started.
